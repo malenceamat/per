@@ -1,4 +1,5 @@
-@section('footer')
+
+
     <footer class="inverse-wrapper">
         <div class="container inner">
             <div class="row">
@@ -110,4 +111,4 @@
 
     </footer>
     <!-- /footer -->
-@endsection
+

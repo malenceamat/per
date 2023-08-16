@@ -1,4 +1,4 @@
-@section('video1')
+
     <div class="outer-wrap inverse-wrapper">
         <div id="video-wrap" class="video-wrap">
             <video preload="metadata" playsinline autoplay muted loop id="video-office">
@@ -15,5 +15,4 @@
         </div>
         <!-- /.video-wrap -->
     </div>
-    <!-- /.inverse-wrapper -->
-@endsection
+

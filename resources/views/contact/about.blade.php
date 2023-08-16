@@ -1,4 +1,4 @@
-@section('about')
+
     <div class="white-wrapper">
         <div class="col-image">
             <div class="bg-wrapper col-md-6">
@@ -51,4 +51,4 @@
 
     </div>
     <!-- /.white-wrapper -->
-@endsection
+

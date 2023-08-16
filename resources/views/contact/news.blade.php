@@ -1,4 +1,4 @@
-@section('news')
+
     <div class="light-wrapper">
         <div class="container inner">
             <div class="section-title text-center">
@@ -116,4 +116,4 @@
         <!-- /.container -->
 
     </div>
-@endsection
+

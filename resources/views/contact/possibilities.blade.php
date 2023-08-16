@@ -1,4 +1,4 @@
-@section('text1')
+
     <div class="light-wrapper">
         <div class="container inner">
             <div class="headline text-center">
@@ -73,4 +73,8 @@
         <!-- /.container -->
 
     </div>
-@endsection
+
+
+
+
+
